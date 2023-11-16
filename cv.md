@@ -2,7 +2,7 @@
 
 ***
 
-##***Uladzimir Chumachenka***
+## ***Uladzimir Chumachenka***
 
 ***
 
@@ -15,13 +15,13 @@
 
 ***
 
-##About Me
+## About Me
 
 **I am 38 years old. I work in the construction industry. In 2022 I became interested in the IT field. I began to engage in self-study in the IT field.I try to improve my skills in all my free time. I really like it. I try to develop in IT as much as my free time allows.I want to change my current job and work in development full-time**
 
 ***
 
-##Skills:
+## Skills:
 
 * **HTML**
 * **CSS**
@@ -31,7 +31,7 @@
 
 ***
 
-##Education:
+## Education:
 
 **1.** **HTML/CSS** [self-study on YouTube](https://www.youtube.com/@FreelancerLifeStyle)
 
@@ -41,7 +41,7 @@
 
 ***
 
-##Code Examples
+## Code Examples
 
 ```
 const myFanction = (a, b) => {
@@ -55,7 +55,7 @@ myFunction(5,3)
 ```
 ***
 
-##Languages:
+## Languages:
 
 * **Belorussian**
    * ***native speaker***
