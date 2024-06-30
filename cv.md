@@ -23,12 +23,37 @@ ___
 
 ## Skills
 
-+ HTML
+1. HTML
 
-+ CSS
+2. CSS
 
-+ Git (basic)
+3. Git (basic)
 
-+ JS (basic)
+4. JS (basic)
 
 ___
+#### Code examples
+
+```JS
+function multiply(a, b){
+return a * b
+}
+
+```
+___
+
+## Educaition
+
++ [Udemy](https://www.udemy.com/home/my-courses/learning/)
+  + JS
+  + HTML
+  + CSS
+
+
+___
+
+## Languages
+
++ Belorussian - native speaker.
++ Russian - native speaker.
++ English - A2 (in the learning process)
